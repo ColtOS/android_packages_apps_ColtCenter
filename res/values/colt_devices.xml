@@ -78,6 +78,6 @@
 
     <!-- LG -->
     <string name="device_lg_g3">LG G3</string>
-    <string name="device_lg_g3_summary">d850-d851-d852-d855\nMaintainer - Traian (jeal0us)</string>
+    <string name="device_lg_g3_summary">d855\nMaintainer - Traian Simedru </string>
 
 </resources>
